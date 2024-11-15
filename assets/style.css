@@ -64,6 +64,7 @@
     font-size: 2vw;
     font-weight: bold;
     text-align: center;
+    text-wrap: nowrap;
 }
 .header, .footer {
     background-color: rgb(171, 168, 168);
@@ -80,5 +81,4 @@
 .section_footer {
     background-color: lightgrey;
     text-align: center;
-    text-wrap: nowrap;
 }
